@@ -1,3 +1,4 @@
+#Please visit https://www.cs.cmu.edu/~avrim/451f12/lectures/lect0906.pdf for detailed explanation
 from math import floor
 #function returning the medians for a given array
 def get_medians(arr):
